@@ -61,4 +61,3 @@ def update_sales_update(data):
 data = get_sales_data()
 sales_data = [int(num) for num in data]
 update_sales_update(sales_data)
-
